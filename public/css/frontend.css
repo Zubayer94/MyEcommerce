@@ -1,0 +1,43 @@
+#pro{
+    margin-top: 15px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.demo{
+    margin-top: 3px;
+    margin-bottom: 15px;
+}
+
+.list-cat-mega-menu li {
+    color: #3a3232;
+    list-style: circle;
+}
+.product-head{
+    padding: 1px !important;
+    /* background-color: rgb(129, 35, 87); */
+    background-color: rgb(235, 49, 49);
+}
+.product-head h3{
+    margin-top: 11px !important;
+    margin-bottom: 10px !important;
+    margin-left: 18px !important;
+}
+.right-arrow{
+    position: absolute;
+    top: -41px;
+    right: 16px;
+}
+.left-arrow{
+    position: absolute;
+    top: -41px;
+    right: 46px;
+    margin-right: 5px;
+}
+.text3{
+    color: white;
+}
+
+
+/* .subcat  > li > a > img {
+    color: black;
+} */

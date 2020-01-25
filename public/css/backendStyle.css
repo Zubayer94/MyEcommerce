@@ -1,0 +1,10 @@
+table{
+   text-align: center;
+}
+#editor{
+	height: 80px;
+}
+.thumb{
+	margin: 10px 5px 0 0;
+	width: 100px;
+}
